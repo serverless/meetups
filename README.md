@@ -1,7 +1,7 @@
 
 # Welcome to Serverless Meetups
 
-Community-driven Serverless meetups, hosted locally in cities across the world. Spread the knowledge  and experience in building and running applications with serverless architectures at scale, on AWS Lambda, Google Cloud Functions, Azure Functions, IBM OpenWhisk, Kubeless, Webtask.io, and more. Get together to learn about serverless architectures, event-driven application development, microservices, FaaS and severless computing in general.
+Community-driven Serverless meetups, are hosted locally in cities across the world. Spread the knowledge and experience in building and running applications with serverless architectures at scale, on AWS Lambda, Google Cloud Functions, Azure Functions, IBM OpenWhisk, Kubeless, Webtask.io, and more. Get together to learn about serverless architectures, event-driven application development, microservices, FaaS and severless computing in general.
 
 * **Do you want to start a Serverless Meetup in your city?** 
 * **Do you already have a meetup and want us to help you grow it?** 
