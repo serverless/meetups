@@ -8,7 +8,9 @@ Community-driven Serverless meetups, are hosted locally in cities across the wor
 
 Join us to be part of the family of many [Serverless Meetups](https://www.meetup.com/pro/serverless/) across the world. 
 
-We are here to help you as an organizer, to run your local meetups more efficiently! Contact us at meetups@serverless.com or chat with us on [Slack on the #meetups channel](https://serverless-contrib.azurewebsites.net/).
+## Inquiries
+
+We are here to help you as an organizer, to help you get started with your local meetup! To help you better, please fill up the [inquiry form](https://docs.google.com/forms/d/e/1FAIpQLSfSCMFQc47wn1S0Y2H7LBjuvmoZW57cgBSwKC6vdnbd_7yvWA/viewform), and we will contact you at the earliest.
 
 ## Get Involved
 
@@ -24,20 +26,23 @@ With little or no effort, transform your meetup to be an "official" Serverless M
 * Register your meetup on Meetup.com
 * [Transfer](https://www.meetup.com/help/article/2397734/) your meetup group to the "Serverless Meetup" organizer account
 * Add any co-organizer(s) to build your meetup group [leadership team](https://www.meetup.com/help/article/868703/)
+* Have the Serverless User Group logo added to your meetup page
 * Have a meetup at least one each quarter with a future goal of one per month
-* Keep the theme of the event focused around serverless architectures
-* All speakers and talks follow the Code of Conduct 
+* Keep the theme of the event focused around serverless technologies
+* The meetups including speakers and the talks that are presented, should adhere to the meetup [guidelines](https://www.meetup.com/help/customer/portal/articles/865536-meetup-s-community-guidelines/)
 
 ## Expectations from Organizers
 
-We will do the introductions and help to find a venue, speaker or a sponsor, but it is up to you to follow up and finalize things.
+We will help you get started, but it is up to you to follow up and finalize things. 
 
-* You will coordinate the date and the talks with the speaker(s)
-* You will coordinate the availability of the venue
-* You will coordinate sponsorship details with the sponsor
-* You will update the event information on your Meetup.com page
+You will coordinate:
 
-## How we can help?
+* the date and the talks with the speaker(s)
+* the availability of the venue
+* the sponsorship details with the sponsor
+* updating the event information on your Meetup.com page
+
+## Benefits
 
 Apart from the official recognition of being a Serverless Meetup, other benefits include:
 
@@ -47,12 +52,9 @@ Apart from the official recognition of being a Serverless Meetup, other benefits
 * Help you find speaker(s) to present
 * Help you find sponsors
 * Help you with potential topics to present
-* Send you swag to give away to attendees, t-shirts, stickers, promo items etc.
+* Send you swag for giveaways: t-shirts, stickers, promo items etc.
 * Help you promote the event via social media
 
 ## Contact Us
 
 Email us at meetups@serverless.com or chat with us on [Slack on the #meetups channel](https://serverless-contrib.azurewebsites.net/).
-
-
-
