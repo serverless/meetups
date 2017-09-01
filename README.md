@@ -1,7 +1,9 @@
 
 # Serverless Meetup Program
 
-Community-driven Serverless meetups, are hosted locally in cities across the world. Spread the knowledge and experience in building and running applications with serverless architectures at scale, on AWS Lambda, Google Cloud Functions, Azure Functions, IBM OpenWhisk, Kubeless, Webtask.io, and more. Get together to learn about serverless architectures, event-driven application development, microservices, FaaS and severless computing in general.
+![](./assets/sug-banner-dark.png)
+
+Community-driven Serverless meetups, are hosted locally in cities across the world. Spread the knowledge and experience in building and running applications with serverless architectures at scale, on AWS Lambda, Google Cloud Functions, Azure Functions, IBM Cloud Functions, Kubeless, Webtask, and more. Get together to learn about serverless architectures, event-driven application development, microservices, FaaS and severless computing in general.
 
 * **Do you want to start a Serverless Meetup in your city?** 
 * **Do you already have a meetup and want us to help you grow it?** 
@@ -10,7 +12,7 @@ Join us to be part of the family of many [Serverless Meetups](https://www.meetup
 
 ## Inquiries
 
-We are here to help you as an organizer, to help you get started with your local meetup! To help you better, please fill up the [inquiry form](https://docs.google.com/forms/d/e/1FAIpQLSfSCMFQc47wn1S0Y2H7LBjuvmoZW57cgBSwKC6vdnbd_7yvWA/viewform), and we will contact you at the earliest.
+We are here to help the local organizers get started with the meetup! In order for us to help you, we request you please fill up the [inquiry form](https://docs.google.com/forms/d/e/1FAIpQLSfSCMFQc47wn1S0Y2H7LBjuvmoZW57cgBSwKC6vdnbd_7yvWA/viewform), and we will contact you at the earliest.
 
 ## Get Involved
 
@@ -25,8 +27,8 @@ With little or no effort, transform your meetup to be an "official" Serverless M
 
 * Register your meetup on Meetup.com
 * [Transfer](https://www.meetup.com/help/article/2397734/) your meetup group to the "Serverless Meetup" organizer account
-* Add any co-organizer(s) to build your meetup group [leadership team](https://www.meetup.com/help/article/868703/)
-* Have the Serverless User Group logo added to your meetup page
+* Add any local co-organizer(s) to build your meetup group [leadership team](https://www.meetup.com/help/article/868703/)
+* Use the [Serverless User Group logo](./assets/sug-banner-dark.png) on your meetup page
 * Have a meetup at least one each quarter with a future goal of one per month
 * Keep the theme of the event focused around serverless technologies
 * The meetups including speakers and the talks that are presented, should adhere to the meetup [guidelines](https://www.meetup.com/help/customer/portal/articles/865536-meetup-s-community-guidelines/)
