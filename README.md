@@ -8,7 +8,7 @@ Community-driven Serverless meetups, are hosted locally in cities across the wor
 * **Do you want to start a Serverless Meetup in your city?** 
 * **Do you already have a meetup and want us to help you grow it?** 
 
-Join us to be part of the family of many [Serverless Meetups](https://www.meetup.com/pro/serverless/) across the world. 
+Join us to be part of the family of many [Serverless Meetups](https://www.serverlessmeetups.com) across the world. 
 
 ## Inquiries
 
@@ -16,7 +16,7 @@ We are here to help the local organizers get started with the meetup! In order f
 
 ## Get Involved
 
-* **Attend**: We host Serverless Meetups in [many cities](https://www.meetup.com/pro/serverless/) around the world. Attend the next meetup one near you.
+* **Attend**: We host Serverless Meetups in [many cities](https://www.serverlessmeetups.com) around the world. Attend the next meetup one near you.
 * **Organize**: Don't have a Serverless Meetup in your city, but you’re a serverless enthusiast? Do you have strong local connections and organizational skills? We work closely with local partners to help launch new Serverless Meetups.
 * **Speak**: We’re always looking for speakers that want to share their experiences and present about serverless, at the meetup groups. Give a presentation, workshop or lightning talk at one of our meetups.
 * **Sponsor**: These meetups wouldn’t be possible without the support of our generous sponsors and community partners. Let us know if you’re interested in hosting a Meetup in your office space, or sponsoring food, drinks or other resources.
@@ -59,4 +59,4 @@ Apart from the official recognition of being a Serverless Meetup, other benefits
 
 ## Contact Us
 
-Email us at meetups@serverless.com or chat with us on [Slack on the #meetups channel](https://serverless-contrib.azurewebsites.net/).
+Email us at meetups@serverless.com or chat with us on [Slack on the #meetups channel](https://join.slack.com/t/serverless-contrib/shared_invite/MjI5NzY1ODM2MTc3LTE1MDM0NDIyOTUtMDgxNTcxMTcxNg).
