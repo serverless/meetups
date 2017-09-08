@@ -28,7 +28,7 @@ With little or no effort, transform your meetup to be an "official" Serverless M
 * Register your meetup on Meetup.com
 * [Transfer](https://www.meetup.com/help/article/2397734/) your meetup group to the "Serverless Meetup" organizer account
 * Add any local co-organizer(s) to build your meetup group [leadership team](https://www.meetup.com/help/article/868703/)
-* Use the [Serverless User Group logo](./assets/sug-banner-dark.png) on your meetup page
+* Use the [Serverless User Group logo](./assets/Meetup_header@1x.png) on your meetup page
 * Have a meetup at least one each quarter with a future goal of one per month
 * Keep the theme of the event focused around serverless technologies
 * The meetups including speakers and the talks that are presented, should adhere to the meetup [guidelines](https://www.meetup.com/help/customer/portal/articles/865536-meetup-s-community-guidelines/)
