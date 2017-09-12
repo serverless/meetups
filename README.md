@@ -43,18 +43,16 @@ You will coordinate:
 * the availability of the venue
 * the sponsorship details with the sponsor
 * updating the event information on your Meetup.com page
+* contacting us to promote your event
 
 ## Benefits
 
 Apart from the official recognition of being a Serverless Meetup, other benefits include:
 
 * Support the organizer(s) in hosting the meetup
-* Send you a Welcome Kit when you join
-* Help you find a venue to host
-* Help you find speaker(s) to present
-* Help you find sponsors
+* Send you a Welcome Kit when you join (only within US)
+* Help you find a venue, speaker(s) or sponsors
 * Help you with potential topics to present
-* Send you swag for giveaways: t-shirts, stickers, promo items etc.
 * Help you promote the event via social media
 
 ## Contact Us
