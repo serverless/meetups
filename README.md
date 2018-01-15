@@ -26,7 +26,7 @@ We are here to help the local organizers get started with the meetup! In order f
 With little or no effort, transform your meetup to be an "official" Serverless Meetup. As long as you:
 
 * Register your meetup on Meetup.com
-* [Transfer](https://www.meetup.com/help/article/2397734/) your meetup group to the "Serverless User Group" organizer account
+* [Transfer](https://www.meetup.com/help/article/2397734/) your meetup group to the "Serverless User Group" organizer account. We will add the original organizers back in.
 * Add any local co-organizer(s) to build your meetup group [leadership team](https://www.meetup.com/help/article/868703/)
 * Use the [Serverless User Group logo](./assets/Meetup_header@1x.png) as your "Meetup Group Logo" for your meetup
 * Have a meetup at least one each quarter with a future goal of one per month
@@ -49,6 +49,7 @@ You will coordinate:
 
 Apart from the official recognition of being a Serverless Meetup, other benefits include:
 
+* We pay for your meetup.com PRO account
 * Support the organizer(s) in hosting the meetup
 * Send you a Welcome Kit when you join (only within US)
 * Help you find a venue, speaker(s) or sponsors
