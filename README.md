@@ -1,5 +1,5 @@
 
-# Serverless Ussergroup Program
+# Serverless Usergroup Program
 
 ![](./assets/User_group_web_header.png)
 
