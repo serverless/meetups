@@ -26,11 +26,11 @@ We are here to help the local organizers get started with the usergroup! In orde
 With little or no effort, transform your usergroup to be an "official" Serverless Meetup. As long as you:
 
 * Register your meetup on Meetup.com
-* [Transfer](https://www.meetup.com/help/article/2397734/) your meetup.com group to the "Serverless User Group" organizer account. We will add the original organizers back in.
+* [Transfer](https://www.meetup.com/help/article/2397734/) your meetup.com group to the "Serverless User Group" organizer account. We will add the original organizers back in immediately. We need to be an organizer, ONLY so that we can pay for it. We will not interfere in the day to day activities of running the meetup.
 * Add any local co-organizer(s) to build your meetup group [leadership team](https://www.meetup.com/help/article/868703/)
 * Use the [Serverless User Group logo](./assets/Meetup_header@1x.png) as your "Meetup Group Logo" for your meetup
-* Have a meetup at least one each quarter with a future goal of one per month
-* Keep the theme of the event focused around serverless technologies
+* Have a meetup at least once a quarter with a future goal of once a month
+* Keep the theme of the event focused around serverless technologies. 
 * The meetups including speakers and the talks that are presented, should adhere to the meetup [guidelines](https://www.meetup.com/help/customer/portal/articles/865536-meetup-s-community-guidelines/)
 
 ## Expectations from Organizers
