@@ -33,6 +33,16 @@ With little or no effort, transform your usergroup to be an "official" Serverles
 * Keep the theme of the event focused around serverless technologies. 
 * The meetups including speakers and the talks that are presented, should adhere to the meetup [guidelines](https://www.meetup.com/help/customer/portal/articles/865536-meetup-s-community-guidelines/)
 
+### Transfer FAQ
+
+1. When a new meetup account is created on meetup.com, do the organizer(s) setup payment with their credit card when they start?
+
+When an organizer creates a new Meetup group, they set up payment with a credit card. That credit card will auto-renew until the organizer decides to cancel the organizer subscription. 
+
+2. When a meetup nominates Serverless to become the Meetup organizer, how is the payment for the meetup handled? Does the  original payment get refunded? In future is Serverless billed for the meetup? How much time before the payment gets refunded?
+
+When an organizer nominates Serverless to become the Meetup organizer, **meetup.com will not automatically refund them**. A subscription is tied to the person's account rather than to the group, so if someone has transferred the group to Serverless, the subscription will not automatically cancel. **If an organizer has transferred their group to you and they paid their subscription in the last 30 days, they are welcome to write to support@meetup.com for a refund**. Refunds will then take 3-7 business days to appear on credit card payments. 
+
 ## Expectations from Organizers
 
 We will help you get started, but it is up to you to follow up and finalize things. 
