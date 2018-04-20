@@ -75,6 +75,7 @@ Our advice to start up a new meetup is to start small. Some of the following tip
 1. At your first meetup, you would expect 35-50 people to show up and that is your opportunity to socialize with the attendees and find out potential speakers and sponsors for future events.
 1. Start off with minimal cost for food/drinks and then look for local companies that will sponsor the event. Give the sponsors 5 mins. of podium time to talk about their company.
 1. Look for local sponsors that can sponsor simple raffle items like AWS Gift certificates and such. Raffle is a great way to attract people to the event.
+1. Attend local events and talk to the speakers in those events. You already know how good they are!
 1. Try to maintain a good cadence (like every month) for your events, so that attendees get used to the schedule.
 1. Try to do video recordings of the talks if you can. You can tweet links to them later and get more visibility. At the minimum, please share the slides for the talks on your event page.
 1. And foremost, focus on building the community, share knowledge and help people out.
