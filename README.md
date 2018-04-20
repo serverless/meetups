@@ -66,6 +66,20 @@ Apart from the official recognition of being a Serverless Usergroup, other benef
 * Help you with potential topics to present
 * Help you promote the event via social media
 
+## Need help with your first meetup event?
+
+Our advice to start up a new meetup is to start small. Some of the following tips can help:
+
+1. Pick a date and a venue for your meetup and announce/promote your event at least 4 weeks in advance for maximum attendance. After you publish the event on meetup.com, please send us the link and we will tweet about it as well.
+1. Start with a simple introductory meetup where you present something like "Introduction to Serverless". This cuts down the time in finding a speaker. If you need help with content, please let us know.
+1. At your first meetup, you would expect 35-50 people to show up and that is your opportunity to socialize with the attendees and find out potential speakers and sponsors for future events.
+1. Start off with minimal cost for food/drinks and then look for local companies that will sponsor the event. Give the sponsors 5 mins. of podium time to talk about their company.
+1. Look for local sponsors that can sponsor simple raffle items like AWS Gift certificates and such. Raffle is a great way to attract people to the event.
+1. Try to maintain a good cadence (like every mnonth) for your events, so that attendees get used to the schedule.
+1. Try to do video recordings of the talks if you can. You can tweet links to them later and get more visibility. At the minimum, please share the slides for the talks on your event page.
+1. And foremost, focus on building the community, share knowledge and help people out.
+
+
 ## Contact Us
 
 Email us at meetups@serverless.com or chat with us on [Slack on the #meetups channel](https://join.slack.com/t/serverless-contrib/shared_invite/MjI5NzY1ODM2MTc3LTE1MDM0NDIyOTUtMDgxNTcxMTcxNg).
