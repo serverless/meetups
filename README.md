@@ -83,4 +83,4 @@ Our advice to start up a new meetup is to start small. Some of the following tip
 
 ## Contact Us
 
-Email us at meetups@serverless.com or chat with us on [Slack on the #meetups channel](https://join.slack.com/t/serverless-contrib/shared_invite/MjI5NzY1ODM2MTc3LTE1MDM0NDIyOTUtMDgxNTcxMTcxNg).
+Email us at meetups@serverless.com or chat with us on [Slack on the #meetups channel](https://join.slack.com/t/serverless-contrib/shared_invite/enQtMzgxMTkxMzIzNTU3LTY0OGZlYWI2OTI4YTliMWQ0YWNlZGZjMDhkNDAyZGQyZDYwMzYwMTlmNmVmMzMzNmI4YzAyNjg0ZjZkYTdmMzU).
